@@ -11,7 +11,7 @@
 
 - :seedling: Exploring React and React Native.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, again I am learning coding...
 
 - :mailbox:How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/kerem-karaman-2434731b4/">
