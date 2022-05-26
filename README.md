@@ -7,7 +7,7 @@
 
   
 ### :man_technologist: About Me :
-  - :telescope: I’m currently learning Frontend and web applications with React Native.
+  - :telescope: I’m currently learning Front-End and Mobile Development with React Native.
 
 - :seedling: Exploring React and React Native.
 
