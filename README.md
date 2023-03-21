@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
 </div>
 
- 
-
-  
 ### :man_technologist: About Me :
   - :telescope: I’m currently learning Mobile Development with React Native.
 
