@@ -36,7 +36,7 @@
 <div align="center">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keremkaramann&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremkaramann&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremkaramann)](https://github.com/keremkaramann/github-readme-stats)
 </div>
 
 
