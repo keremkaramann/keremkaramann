@@ -14,10 +14,10 @@
 
 - :mailbox:How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/kerem-karaman-2434731b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
     <a href="mailto:keremkaraman91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"  height="30"/>
       </a>
 </div>
 
