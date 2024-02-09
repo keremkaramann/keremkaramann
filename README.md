@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
 </div>
 
-<div>
+
  ![](https://komarev.com/ghpvc/?username=keremkaramann&label=PROFILE+VIEWS)
-</div>
+
 
 ### :man_technologist: About Me :
   - :telescope: I’m currently learning Mobile Development with React Native.
