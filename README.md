@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge" />
       </a>
 </div>
-![](https://komarev.com/ghpvc/?username=keremkaramann)
+
 
 ### :hammer_and_wrench: Languages and Tools :
   <div style="display:flex;">
