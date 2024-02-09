@@ -4,7 +4,7 @@
 </div>
 
 
- ![](https://komarev.com/ghpvc/?username=keremkaramann&label=PROFILE+VIEWS)
+
 
 
 ### :man_technologist: About Me :
