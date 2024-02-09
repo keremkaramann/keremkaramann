@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
 </div>
 
+<div>
+ ![](https://komarev.com/ghpvc/?username=keremkaramann&label=PROFILE+VIEWS)
+</div>
+
 ### :man_technologist: About Me :
   - :telescope: I’m currently learning Mobile Development with React Native.
 
@@ -42,7 +46,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keremkaramann&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremkaramann&layout=compact)
- ![](https://komarev.com/ghpvc/?username=keremkaramann&label=PROFILE+VIEWS)
+ 
 </div>
 
 
