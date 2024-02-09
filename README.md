@@ -8,7 +8,7 @@
 
 
 ### :man_technologist: About Me :
-  - :telescope: I’m currently learning Mobile Development with React Native.
+  - :telescope: I’m currently learning Mobile Development.
 
 - :seedling: Exploring Java, SWIFT and React Native.
 
