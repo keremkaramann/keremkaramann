@@ -7,10 +7,7 @@
 
 
 
-### :man_technologist: About Me :
-  - :telescope: I’m currently learning Mobile Development.
 
-- :seedling: Exploring React Native.
 
 - :mailbox:How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/kerem-karaman-2434731b4/">
